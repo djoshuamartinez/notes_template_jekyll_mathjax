@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+vim $(python3 new-note.py)
